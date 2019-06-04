@@ -10,7 +10,7 @@
 
 #include <cstdlib>
 #include <ctime>
-#include <unistd.h>
+#include <Windows.h>
 #include <iostream>
 using namespace std;
 
@@ -97,7 +97,7 @@ void Receiver::RoomAction()
             break;
     }
     
-    sleep(1);
+    Sleep(1);
 }
 
 
