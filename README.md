@@ -26,7 +26,7 @@ Our project is an RPG adventure game including character, monster, and several r
 
 ## How to Run Our Code?
 We choose C++ to achieve modularity. There are three `.hpp` files and four `.cpp` files. When compiling, you need a C++ environment and execute `adventure.sln` in Visual Studio to run the program. When running the program, the character will start at the initial room and start adventuring.
-When get to a room, there might be a treasure in it, which might include weapons or a key to the exit door. For now, we have three options, one is that you have two third chances to get the key. Second is that you can fight with the monster get the key. Last one is the exit door. If you have the key , you can escape the room and win the game. 
+When get to a room, there might be a treasure in it, which might include weapons or a key to the exit door. For now, we have three options, one is that you have two third chances to get the key. Second is that you can fight with the monster to get the key. Last one is the exit door. If you have the key, you can escape the room and win the game. 
 
 
 ## Future Features
